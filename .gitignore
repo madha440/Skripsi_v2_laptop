@@ -1,0 +1,9 @@
+/data/
+/runs/
+/artifacts/
+/logs/
+*.pt
+*.onnx
+*.engine
+*.cache
+__pycache__/
